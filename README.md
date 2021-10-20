@@ -1,4 +1,4 @@
-## Some of my own hacking tools writen in python
+# My Hacking tools
  
+This repo contains tools written by me using python of pentesting purposes.
 
-## Disclaimer use this tools for education and learning purpose only
